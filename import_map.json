@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/allomnistore/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
